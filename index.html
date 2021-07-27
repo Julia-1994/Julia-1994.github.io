@@ -5,15 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <script>
-    var ua= window.navigator.userAgent.toLowerCase();
-    console.log(ua);
-    if((ua.match(/MicroMessenger/i) == 'micromessenger') && (ua.match(/wxwork/i) == 'wxwork') ){
-        alert("企业微信客户端");
-    } else if( ua.match(/micromessenger/i) == 'micromessenger' ){
-        alert("微信客户端");
-    } else {
-      alert("PC端")
+
+console.log('test padEnd in chrome 53 for work weixin');
+// [FIX] work weixin chrome 53 not support String.padEnd
+// https://github.com/uxitten/polyfill/blob/master/string.polyfill.js
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padEnd
+if (!String.prototype.padEnd) {
+  // eslint-disable-next-line no-extend-native
+  String.prototype.padEnd = function padEnd(targetLength, padString) {
+    targetLength = targetLength>>0; //floor if number or convert non-number to 0;
+    padString = String((typeof padString !== 'undefined' ? padString: ''));
+    if (this.length > targetLength) {
+      return String(this);
     }
+    else {
+      targetLength = targetLength - this.length;
+      if (targetLength > padString.length) {
+        padString += padString.repeat(targetLength / padString.length); //append to original to ensure we are longer than needed
+      }
+      return String(this) + padString.slice(0, targetLength);
+    }
+  };
+}
+
+console.log('123as'.padEnd(10, '0'));
 </script>
 </head>
 <body>
