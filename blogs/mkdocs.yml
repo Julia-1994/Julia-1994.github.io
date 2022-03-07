@@ -1,0 +1,27 @@
+site_name: Genshin 小说集
+site_author: Genshin
+site_url: https://Julia-1994.github.io/
+repo_name: Julia-1994/Julia-1994.github.io
+repo_url: https://github.com/Julia-1994/Julia-1994.github.io
+# copyright: Copyright &copy; Michael An
+
+docs_dir: ./docs
+
+theme:
+    name: material
+    palette:
+        primary: "orange"
+
+extra:
+  search:
+    language: 'jp'
+
+# Page tree
+nav:
+    - nav:
+        - '说明': 'index.md'
+    - Noelle:
+        - '当诺艾尔怀上了旅行者的小宝宝': 'Noelle/当诺艾尔怀上了旅行者的小宝宝.md'
+        - '当诺艾尔进入了需要被不断满足的时期': 'Noelle/当诺艾尔进入了需要被不断满足的时期.md'
+        - '诺艾尔的留恋': 'Noelle/诺艾尔的留恋.md'
+        - '名为诺艾尔的血色玫瑰': 'Noelle/名为诺艾尔的血色玫瑰.md'
