@@ -3,7 +3,6 @@ site_author: Genshin
 site_url: https://Julia-1994.github.io/
 repo_name: Julia-1994/Julia-1994.github.io
 repo_url: https://github.com/Julia-1994/Julia-1994.github.io
-# copyright: Copyright &copy; Michael An
 
 docs_dir: ./docs
 
@@ -25,3 +24,21 @@ nav:
         - '当诺艾尔进入了需要被不断满足的时期': 'Noelle/当诺艾尔进入了需要被不断满足的时期.md'
         - '诺艾尔的留恋': 'Noelle/诺艾尔的留恋.md'
         - '名为诺艾尔的血色玫瑰': 'Noelle/名为诺艾尔的血色玫瑰.md'
+        - '原神同人诺艾尔.md': 'Noelle/原神同人诺艾尔.md'
+        - '假如说诺艾尔是病娇.md': 'Noelle/假如说诺艾尔是病娇.md'
+    - Amber:
+        - '最后的侦察骑士.md': 'Amber/最后的侦察骑士.md'
+    - Kamisato Ayaka:
+        - '神里-海灯节祭典那一夜.md': 'Kamisato Ayaka/神里-海灯节祭典那一夜.md'
+        - '神里-发生在社奉行的那些事.md': 'Kamisato Ayaka/神里-发生在社奉行的那些事.md'
+        - '神里绫华-逐月佳节-食与山河.md': 'Kamisato Ayaka/神里绫华-逐月佳节-食与山河.md'
+        - '神里绫华簌簌红叶送君去.md': 'Kamisato Ayaka/神里绫华簌簌红叶送君去.md'
+        - '当神里绫华想为旅行者暖床.md': 'Kamisato Ayaka/当神里绫华想为旅行者暖床.md'
+        - '当神里绫华进入了需要被不断满足的时期.md': 'Kamisato Ayaka/当神里绫华进入了需要被不断满足的时期.md'
+        - '当旅行者让神里绫华独守空房一个月会怎么样.md': 'Kamisato Ayaka/当旅行者让神里绫华独守空房一个月会怎么样.md'
+    - Lisa:
+        - '沙漏星象.md': 'Lisa/沙漏星象.md'
+        - '跟我进屋.md': 'Lisa/跟我进屋.md'
+        - '丽莎的惩罚.md': 'Lisa/丽莎的惩罚.md'
+        - '丽莎姐姐俘获我.md': 'Lisa/丽莎姐姐俘获我.md'
+        - '闯进盛夏的紫蔷薇.md': 'Lisa/闯进盛夏的紫蔷薇.md'
