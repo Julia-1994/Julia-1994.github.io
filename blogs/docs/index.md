@@ -6,4 +6,6 @@
 
 Fork 到 GitHub: https://github.com/Julia-1994/Julia-1994.github.io
 
-下载到本地（永远不会丢失）：https://github.com/Julia-1994/Julia-1994.github.io/archive/refs/heads/master.zip
+本地下载：https://github.com/Julia-1994/Julia-1994.github.io/archive/refs/heads/master.zip
+
+专栏 https://www.bilibili.com/read/readlist/rl438831
