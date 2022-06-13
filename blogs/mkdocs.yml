@@ -18,6 +18,10 @@ extra:
 nav:
     - 说明: 'index.md'
 
+    - 图集:
+        - '神里绫华': 'photo/KamisatoAyaka.md'
+        - '诺艾尔': 'photo/Noelle.md'
+
     - 安柏:
         - '原神同人文——安柏': 'Amber/原神同人文——安柏.md'
         - '安柏-在时间长河中迷茫的我们': 'Amber/安柏-在时间长河中迷茫的我们.md'
