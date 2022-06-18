@@ -6,6 +6,9 @@ const { exec } = require('child_process');
 var dirList = [
   './Noelle',
   './KamisatoAyaka',
+  './Jane',
+  './Amber',
+  './Barbara',
 ];
 
 // Recursively iterates through files and folders to get the markdown file path
