@@ -9,6 +9,8 @@ var dirList = [
   './Jane',
   './Amber',
   './Barbara',
+  '/Keqing',
+  'Xiaogong',
 ];
 
 // Recursively iterates through files and folders to get the markdown file path
