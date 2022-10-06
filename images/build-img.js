@@ -23,7 +23,7 @@ for (var i = 0; i < dirList.length; i++) {
       if (files[i] === '.DS_Store') {
         continue;
       }
-      if (files[i].includes('.webp') || files[i].includes('.jpg')) {
+      if (files[i].includes('.webp') || files[i].includes('.jpg') || files[i].includes('.png')) {
         let newPath = father_path + '/' + files[i];
         res.push(newPath);
       }
