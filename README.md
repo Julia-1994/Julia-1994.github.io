@@ -15,3 +15,7 @@ Fork 到 GitHub: [https://github.com/Julia-1994/Julia-1994.github.io](https://gi
 - [祈愿导出](https://github.com/biuuu/genshin-wish-export) 
 
 - [抽卡记录分析](https://github.com/voderl/genshin-gacha-analyzer) 
+
+### TODO
+
+- [ ] 域名备案：https://icp.gov.moe/join.php
