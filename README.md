@@ -16,6 +16,8 @@ Fork 到 GitHub: [https://github.com/Julia-1994/Julia-1994.github.io](https://gi
 
 - [抽卡记录分析](https://github.com/voderl/genshin-gacha-analyzer) 
 
+- [脚本工具](https://github.com/phonowell/genshin-impact-script) 
+
 ### TODO
 
 - [ ] 域名备案：https://icp.gov.moe/join.php
