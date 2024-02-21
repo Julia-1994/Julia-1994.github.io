@@ -8,7 +8,7 @@ function getResuleFromTable() {
   let content = `
   ## ${title}
 
-  #### 标签 ${tagsContent}
+#### 标签 ${tagsContent}
 
   原文链接 ${location.href}
   \n
