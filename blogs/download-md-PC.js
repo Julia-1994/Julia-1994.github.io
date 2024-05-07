@@ -5,8 +5,7 @@ function getResuleFromTable() {
   const tagsContent = [...tags].map(tag => {
     return tag.innerText;
   }).join(', ');
-  let content = `
-  ## ${title}
+  let content = `## ${title}
 
 #### 标签 ${tagsContent}
 
