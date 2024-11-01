@@ -1,5 +1,8 @@
 ## 100397755_p0.jpg
 
+统计信息：字数668  阅读2分钟  生草文
+
+
 ![](https://julia-1994.github.io/images/./Amber/100397755_p0.jpg)
 
 ## 101020638_p0.jpg

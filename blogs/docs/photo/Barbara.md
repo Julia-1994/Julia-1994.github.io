@@ -1,5 +1,8 @@
 ## 100974140_p0.jpg
 
+统计信息：字数816  阅读2分钟  生草文
+
+
 ![](https://julia-1994.github.io/images/./Barbara/100974140_p0.jpg)
 
 ## 101003729_p0.jpg

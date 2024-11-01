@@ -1,5 +1,8 @@
 ## 01.webp
 
+统计信息：字数1845  阅读4分钟  生草文
+
+
 ![](https://julia-1994.github.io/images/./Noelle/01.webp)
 
 ## 02.webp

@@ -1,5 +1,8 @@
 ## 01.jpg
 
+统计信息：字数1000  阅读2分钟  生草文
+
+
 ![](https://julia-1994.github.io/images/./KamisatoAyaka/01.jpg)
 
 ## 02.jpg
